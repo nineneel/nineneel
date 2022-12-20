@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @nineneel
-- 👀 I’m interested in fullstack web developer
-- 🌱 I’m currently learning laravel framework
-- 📫 How to reach me, just send me an [email](mailto:sjrnl27@gmail.com?subject=Colaborate%20With%20Me&body=Hello%2C%20Niel%0D%0A%0D%0AI%20Want.....)
+
 
 <!---
 nineneel/nineneel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,22 +17,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
+- 👋 Hi, I’m @nineneel
+- 👀 I’m interested in fullstack web developer
+- 🌱 I’m currently learning laravel framework
+- 📫 How to reach me, just send me an [email](mailto:sjrnl27@gmail.com?subject=Colaborate%20With%20Me&body=Hello%2C%20Niel%0D%0A%0D%0AI%20Want.....)
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
@@ -46,9 +31,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📕 Latest Blog Posts
 
